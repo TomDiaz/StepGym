@@ -1,0 +1,6 @@
+C:\Users\Tomas\Desktop\StepGym\StepGym\Entidades\bin\Debug\Entidades.dll
+C:\Users\Tomas\Desktop\StepGym\StepGym\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Tomas\Desktop\StepGym\StepGym\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Tomas\Desktop\StepGym\StepGym\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Desktop\StepGym\StepGym\Entidades\obj\Debug\Entidades.dll
+C:\Users\Tomas\Desktop\StepGym\StepGym\Entidades\obj\Debug\Entidades.pdb

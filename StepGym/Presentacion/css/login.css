@@ -1,0 +1,90 @@
+﻿.login-img {
+    padding: 0;
+}
+
+.login-container {
+    background: rgb(0,0,0);
+    background: linear-gradient(101deg, rgba(0,0,0,1) 51%, rgba(0,9,0,1) 61%, rgba(0,29,0,1) 73%, rgba(0,134,106,1) 100%);
+}
+
+.login-img .carousel {
+    margin-left: -20px;
+    clip-path: polygon(0 0, 100% 0%, 84% 100%, 0% 100%);
+}
+
+.panel img {
+    filter: drop-shadow(1px 1px 20px black);
+}
+
+
+.login-img .carousel-item img {
+    width: 100%;
+    height: 100vh;
+    filter: grayscale(100%);
+}
+
+.login {
+   
+    color: #fff;
+}
+
+    .login .panel {
+        background: #040404;
+        text-align: center;
+        width: 50%;
+        margin: auto;
+        margin-top: 50px;
+        padding: 30px;
+        height: 550px;
+        border-radius: 10px;
+        box-shadow: 5px 1px 25px 15px rgba(4, 4, 4, 0.3);
+    }
+
+        .login .panel .input {
+            display: flex;
+            flex-direction: column;
+        }
+
+
+    .login .txt {
+        padding: 10px;
+        color: #fff;
+        background: #040404;
+        border: none;
+        border-bottom: solid 1px;
+    }
+
+        .login .txt:focus {
+            outline: none;
+            border-bottom: solid 1px #00866a;
+        }
+
+.recuperar-cont {
+    text-align: right;
+    padding: 8px;
+}
+
+    .recuperar-cont a {
+        text-decoration: none;
+        color: #fff;
+    }
+
+.login-boton .btn:nth-child(2) {
+    transition: 1s;
+}
+
+    .login-boton .btn:nth-child(2):hover {
+        color: #fff;
+    }
+
+.login-boton {
+    margin-top: 20px;
+}
+
+.input label {
+    width: 100%;
+    text-align: left;
+    margin-top: 10px;
+    font-weight: 600
+}
+
